@@ -27,30 +27,30 @@
 ### 2014/4 - 現在：SES企業
 #### 課題管理システム開発(2019/12 - )
 - 顧客の業務に合わせた課題管理ツール(Redmine)の構築とカスタマイズ
-    - Dockerを使ったサーバー環境の構築
+    - Dockerを用いてサーバー環境の設計と構築
     - Redmineプラグイン(ViewCustomize)を使って画面拡張機能の実装
-    - バックエンドAPIの実装
+    - バックエンドAPIの実装(SpringBoot)
 - 言語：HTML, JavaScript, Java(SpringBoot)
 - その他：Docker
 
-#### BIツール開発(2018/8 - 2019/3)
+#### 業務分析システム開発(2018/8 - 2019/3)
 - 業務データを用いて集計・分析を行うBIツールの新規開発でバックエンドを担当
     - 認証・ユーザー管理機能の設計とサーバー(Keycloak)の構築
-    - バックエンドAPIのIF設計と実装
+    - バックエンドAPIのIF設計と実装(Django)
 - 言語：Python(Django REST framework)
-- その他：Docker, Keycloak, RabbitMQ
+- その他：Docker, RabbitMQ, Keycloak
 
 #### クーポン管理アプリ開発(2018/6 - 2018/7)
-- 食堂や売店などで利用できるクーポンを管理するスマホアプリの新規開発でバックエンドを担当
+- 大学生協や食堂などで利用できるクーポンを管理するスマホアプリの新規開発でバックエンドを担当
     - 認証機構(AWS Cognito)の設計と構築
-    - バックエンドAPIの設計と実装
+    - バックエンドAPIの設計と実装(Node.js)
     - 本番環境へのデプロイ機能の構築(AWS Serverless)
 - 言語：JavaScript(Node.js)
 - その他：AWS Lambda/Cognito/Serverless
 
 #### プリペイドアプリ開発(2018/2 - 2018/4)
 - POSレジでのバーコード読み取りでプリペイド機能を行うスマホアプリの新規開発でアプリ開発を担当
-    - Apache Cordovaを用いてiOS/Andoroid用のハイブリッドアプリ開発
+    - iOS/Andoroid用のハイブリッドアプリ開発(Apache Cordova)
     - Cordova Pluginを使ってプッシュ通知やカメラのQRコード読み取りやBluetoothによるビーコン検出などネイティブ機能の実装
 - 言語：HTML, JavaScript(Apache Cordova)
 
